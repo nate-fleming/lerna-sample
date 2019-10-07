@@ -3,5 +3,5 @@
 module.exports = samplePackage;
 
 function samplePackage() {
-  <p>update</p>;
+  <p>update again</p>;
 }
