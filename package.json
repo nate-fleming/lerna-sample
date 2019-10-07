@@ -2,5 +2,16 @@
   "devDependencies": {
     "lerna": "^3.16.4"
   },
-  "name": "lernaSample"
+  "name": "lernaSample",
+  "dependencies": {
+    "react": "^16.10.2"
+  },
+  "peerDependencies": {
+    "react": "^16.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
 }
