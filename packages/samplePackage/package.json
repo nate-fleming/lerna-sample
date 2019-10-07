@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nate-fleming/lerna-sample.git"
@@ -25,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/nate-fleming/lerna-sample/issues"
   },
-  "gitHead": "c42842e7bd9fdedc00cb3539b0168a1b503f5335"
+  "gitHead": "cb37d9ab6291f0ce76b7f166555d2268f7c1be6d"
 }
