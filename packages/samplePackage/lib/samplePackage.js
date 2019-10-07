@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = samplePackage;
 
 function samplePackage() {
-    // TODO
+  <p>update</p>;
 }
