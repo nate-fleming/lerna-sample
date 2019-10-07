@@ -1,5 +1,5 @@
 {
-  "name": "samplepackage",
+  "name": "@nate.fleming/samplepackage",
   "version": "1.0.3",
   "description": "sample",
   "author": "nate-fleming <nfleming4@gmail.com>",
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/nate-fleming/lerna-sample/issues"
   },
-  "gitHead": "6361b71b1032068c7dd169108679917e996fc449"
+  "gitHead": "c42842e7bd9fdedc00cb3539b0168a1b503f5335"
 }
