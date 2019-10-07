@@ -4,7 +4,8 @@
   },
   "name": "lernaSample",
   "dependencies": {
-    "react": "^16.10.2"
+    "react": "^16.10.2",
+    "react-scripts": "^3.2.0"
   },
   "peerDependencies": {
     "react": "^16.10.2"
