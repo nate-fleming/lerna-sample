@@ -1,6 +1,6 @@
 {
   "name": "testApp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "@nate.fleming/samplepackage": "^1.0.7"
+    "@nate.fleming/samplepackage": "^1.0.8"
   },
   "keywords": [],
   "author": "",
