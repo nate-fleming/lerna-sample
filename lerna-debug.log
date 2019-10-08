@@ -1,0 +1,5 @@
+0 silly argv { _: [ 'bootstrap' ], lernaVersion: '3.16.4', '$0': 'lerna' }
+1 notice cli v3.16.4
+2 verbose rootPath /Users/natefleming/workspace/lernaSample
+3 info versioning independent
+4 error
