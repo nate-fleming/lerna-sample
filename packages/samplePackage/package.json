@@ -6,7 +6,6 @@
   "homepage": "https://github.com/nate-fleming/lerna-sample#readme",
   "license": "ISC",
   "main": "sampleComponent.js",
-  "source": "sampleComponent.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,12 +21,13 @@
     "url": "git+https://github.com/nate-fleming/lerna-sample.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/nate-fleming/lerna-sample/issues"
   },
-  "gitHead": "c7f18bb72aae42fe8f8c9006afe97d6b12815e55"
+  "gitHead": "7926ecce16ad81c9cf39f472d202fb35a822fe1f",
+  "dependencies": {
+    "react": "16.10.2"
+  }
 }
